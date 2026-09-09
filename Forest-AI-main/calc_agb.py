@@ -1,0 +1,1 @@
+{{CONTENT_OF_biomass_service.py}}
