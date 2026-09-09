@@ -1,0 +1,1 @@
+{{CONTENT_OF_generate_sample_tiffs.py}}

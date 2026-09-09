@@ -1,0 +1,1 @@
+{{CONTENT_OF_diagnose_thar_aoi.py}}
